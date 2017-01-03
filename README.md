@@ -6,3 +6,4 @@ jqueryでajaxテスト
 *api
 *Sass
 *json
+### 追記しました。
